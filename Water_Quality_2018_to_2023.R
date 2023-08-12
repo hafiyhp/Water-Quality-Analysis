@@ -7,7 +7,7 @@ library(patchwork)
 library(rstatix)
 library(mgcv)
 
-# Water Quality 2023 is in separate csv file  due to data collection not fully completed as of today
+# Water Quality 2023 is in separate csv file due to data collection not fully completed as of today
 
 # Read CSV and format 'Date' in a recognized date format for each Date(num)
 library(lubridate)
