@@ -94,6 +94,8 @@ validity of the models and the reliability of the statistical inferences made.
 
 # Notable Results
 
+![Image Alt Text]("C:\Users\digit\Desktop\River Deveron diary\PIT tag fish 27-4-2023\PIT Excel Tag detection 2022-2023\Rplot27.png")
+
 1) The time series analysis illustrated fluctuating inverted-U shaped patterns
 between each parameter (water temperature, electrical conductivity at 25°C, water
 depth) and years. Significant polynomial regression models were employed to analyze
