@@ -1,5 +1,3 @@
-## R-Scripts-Visualisation-Analysis ##
-
 ## Physico-chemical Water Parameter analysis ##
 
 ## Introduction and Data Source ##
@@ -90,7 +88,7 @@ validity of the models and the reliability of the statistical inferences made.
 2. Open the R script `Water_Quality_2018_to_2023.R` in RStudio.
 3. Modify the file paths if needed to point to your local data files.
 4. Run the script step by step or all at once to perform the analysis.
-5. Refer to the generated plots and results to understand water quality trends.
+5. Review the generated plots within the repository's files to understand water quality trends.
 
 # Notable Results
 
