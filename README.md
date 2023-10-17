@@ -17,7 +17,8 @@ climate change on peatland health and make informed conservation decisions.
 
 # 1) Data Preparation
 
-The initial step involves organizing raw dataset using Excel into proper 'csv' format. 
+The initial step involves organizing the raw dataset using Excel into the proper 'csv' format. Subsequently, the data is stored and managed in a PostgreSQL database, improving data accessibility and facilitating seamless integration. 
+
 The data is read into R using the `read.csv` function. 
 Date columns are converted to the appropriate date format using `as.Date`. 
 This is critical for consistent and meaningful time series analysis. 
@@ -26,10 +27,7 @@ This helps to facilitate time-based analysis, as this observation converts the d
 into a format that takes the temporal nature of the observations into consideration.
 Time series objects are essential for detecting trends, seasonality, and other temporal patterns.
 
-By following these data preparation steps, we establish a robust foundation for
-our exploratory data analysis and subsequent modeling.
-The refined dataset, containing correctly formatted dates and structured time series
-objects, allows us to extract meaningful insights into the dynamics of the River Cabrach watwr quality data.
+By following these data preparation steps, we establish a robust foundation for our exploratory data analysis and subsequent modeling in R. The refined dataset, containing correctly formatted dates and structured time series objects, allows us to extract meaningful insights into the dynamics of the River Cabrach water quality data.
 
 # 2) Seasonal Analysis
 The data is divided into seasons (spring, summer, autumn, and winter) based
